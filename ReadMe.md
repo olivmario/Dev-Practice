@@ -12,7 +12,7 @@ Estatísticas
 Tecnologias
 
 - Python
-- java
+- Java
 - Go
 
 Plataformas
