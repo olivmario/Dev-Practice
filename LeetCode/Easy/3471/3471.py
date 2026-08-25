@@ -17,7 +17,7 @@ for num in c:
     if c[num] == 1:
         maior = max(maior, num)
 
-print(maior)       
+print(maior)
 
     
 
