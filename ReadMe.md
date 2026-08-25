@@ -4,8 +4,8 @@ Uma das minhas diversões diárias.
 
 Estatísticas
 
-- ✅ Desafios resolvidos: 19
-- 🟢 Easy: 6
+- ✅ Desafios resolvidos: 23
+- 🟢 Easy: 9
 - 🟡 Medium: 9
 - 🔴 Hard: 5
 
@@ -24,5 +24,5 @@ Plataformas
 Organização
 
 Daily Coding Problem | 16 |
-LeetCode | 1 |
-Outras | 3 |
+LeetCode | 2 |
+Outras | 5 |
